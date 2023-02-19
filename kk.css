@@ -1,0 +1,17 @@
+.c-item{
+height:400px;
+max-height: 100%;
+background-repeat: no-repeat;
+
+background-size: contain;
+
+
+width: auto;
+}
+
+.c-img{
+    height: 100%;
+    object-fit:fill;
+    filter:brightness(1);
+
+}
